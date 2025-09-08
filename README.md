@@ -1,2 +1,4 @@
-# bioSite
-bioSite assignment on a person of interest
+# CSD 340 Web Development with HTML and CSS
+## Contributors
++ Instructor: Sue Sampson
++ Student: James Brown III
